@@ -7,8 +7,8 @@
 body {
     font-family: Arial, sans-serif;
     display: flex;
-    justify-content: ;
-    align-items: ;
+    justify-content:center ;
+    align-items:center ;
     height: 100vh;
     background-color: #fff;
 }
@@ -44,7 +44,7 @@ input[type="text"] {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #0f7109;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -53,5 +53,5 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #0ccf05;
 }
