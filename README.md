@@ -1,3 +1,6 @@
+Description
+
+
 Alright, here’s the mission: take a project, toss it into GitHub, and make it shine. We’re talking branches for days, commits like a pro, and pull requests that’ll make even the toughest devs nod in approval. Tasks? Editing files, adding some stylish CSS, and throwing in an image and alert—because why not? Each task gets its own branch, because we don’t mix greatness with greatness. 
 
 Follow the flow: issue → branch → commit → PR → merge. In short, it's Git, but with swagger.
