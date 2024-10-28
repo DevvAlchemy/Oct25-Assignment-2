@@ -12,4 +12,4 @@ Known Bugs:
 -  Character limit for the security code is set to 6; anything longer gets cut off—no VIP entry for extra characters.
 -  Submit button styling updated from blue to green, so it might surprise you if you’re still looking for the old blue look.
 -  CSS adjustments might occasionally over-center attributes.
--  Page now displays an alert on load—don’t say I didn’t warn you.
+## Page now displays an alert on load—don’t say I didn’t warn you.
